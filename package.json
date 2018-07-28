@@ -1,0 +1,14 @@
+{
+  "name": "fantasy-sports-google-action",
+  "version": "1.0.0",
+  "description": "GDG Hackathon Google Action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "espn-ff-api": "^1.0.8"
+  }
+}
